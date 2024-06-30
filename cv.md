@@ -8,7 +8,7 @@ ___
 
 * Phone: 89640625564
 
-* E-mail: ainausupova@gmail.com
+* E-mail: ainausupova@gmail.ru
 
 ___
 ### Briefly About Myself:
