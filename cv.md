@@ -1,4 +1,4 @@
-### rsschool-cv
+## rsschool-cv
 ___
 <image src="/images/picture.jpg" alt="photo">
   
